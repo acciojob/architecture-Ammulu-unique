@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+*{
+	width:1100px;
+	background-color:#CBD6CB;
+}
+.imageContainer{
+	height:200px;
+	width:400px;
+}
+.first{
+	width:200px;
+}
+.middle{
+	width:600px;
+}
+.last{
+	width:200px;
+	height:200px;
+}
+table,td{
+	border:1px solid black;
+}
+.middle{
+	text-align:center
+}
